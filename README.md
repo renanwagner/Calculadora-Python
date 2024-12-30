@@ -8,19 +8,19 @@
 2. Execute o programa com o comando: python3 calculadora.py.
    Pronto! A calculadora foi executada.
 
-#### Utilizando o arquivo '.sh'
+### Utilizando o arquivo '.sh'
 1. Não é necessária a verificação, pois o programa a fará automaticamente.
 2. O programa já deve estar com permissões de execução, mas caso ocorra algum erro, tente torná-lo executável com : chmod +x executar_calculadora.sh
 3. Execute o programa com o comando: ./executar_calculadora.sh
 
-##### Explicação do código
+#### Explicação do código
 O script calculadora.py funciona da seguinte forma:
 - Pede pelo nome do usuário.
 - Oferece operações matmáticas básicas (+,-,*,/).
 - Solicita dois números à escolha do usuário.
 - Retorna o resultado com base em suas escolhas.
 
-###### Tecnologias utilizadas:
+#### Tecnologias utilizadas:
 - Python 3
 - Bash Script
 - Google Colab (Para o desenvolvimento do código em Python)
