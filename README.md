@@ -6,7 +6,6 @@
 ### Utilizando o arquivo '.py':
 1. Ao contrário do arquivo executável, para o arquivo '.py' você terá de verificar se python está instalado.
 2. Execute o programa com o comando: python3 calculadora.py.
-   Pronto! A calculadora foi executada.
 
 ### Utilizando o arquivo '.sh'
 1. Não é necessária a verificação, pois o programa a fará automaticamente.
