@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Cabeçalho do projeto 1
+# Cabeçalho do projeto 
 echo "==============================="
 echo "Executar uma calculadora Python"
 echo "==============================="
